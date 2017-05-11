@@ -1,0 +1,6 @@
+name,date,time,sup
+brian,today,now,man
+
+diego,tomorrow,later,
+bob,,earlier,
+
